@@ -8,6 +8,11 @@ public class Actor {
     private String gender;
     private int age;
 
+    //Actor setter,constructor
+    public Actor() {
+
+    }
+
     @Override
     public String toString() {
         return "Actor{" +
